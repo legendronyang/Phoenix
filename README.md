@@ -15,4 +15,5 @@ A SharePoint for team's free edition and collaborations.
 | Joey Zhang       | 张       | https://github.com/zhang04171    |                       |
 | Alex Li          | 李       | https://github.com/fg-jg         |                       |
 | Wei Liu          | 刘       | https://github.com/lwtig         | wei-liu@outlook.com   |
+| Helen Jiang      | 江       | https://github.com/helen-jiang   | helen14mitsui@gmail.com |
 
