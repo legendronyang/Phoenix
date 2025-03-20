@@ -19,3 +19,4 @@ A SharePoint for team's free edition and collaborations.
 | Helen Jiang     | 江     | https://github.com/helen-jiang   | helen14mitsui@gmail.com    |
 | Yibing Peng     | 彭     | https://github.com/robin2003     | xxpyb@126.com              |
 | Yanwei He       | 贺     | https://github.com/yanweih       |                            |
+| Sicong Yao      | 姚     | https://github.com/zdsicong      | sicong.yao@qq.com          |
