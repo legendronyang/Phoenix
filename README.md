@@ -22,3 +22,4 @@ A SharePoint for team's free edition and collaborations.
 | Sicong Yao      | 姚     | https://github.com/zdsicong      | sicong.yao@qq.com          |
 | Nigel Han       | 韩     | https://github.com/nigelhan      | hanchaowen2006@126.com     |
 | Alan Wang       | 王     | https://github.com/1AlanW        | wangyourong@163.com        |
+| David Ren       | 任     | https://github.com/changshren    | rcs_china@163.com          |
